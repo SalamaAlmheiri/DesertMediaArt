@@ -1,6 +1,7 @@
 # DesertMediaArt
 
-Resources:
+**Resources:**
+
 [Feather board](https://circuitpython.org/board/feather_m4_express/)
 
 [MU Installing](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor)
