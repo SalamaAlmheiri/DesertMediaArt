@@ -1,4 +1,4 @@
-# DesertMediaArt
+# Desert Media Art
 
 **Resources:**
 
