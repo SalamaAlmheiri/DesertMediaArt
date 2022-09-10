@@ -7,3 +7,5 @@
 [MU Installing](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor)
 
 [Circuit Python RGB](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
+
+[RGB Color Generator](https://www.rapidtables.com/web/color/RGB_Color.html)
