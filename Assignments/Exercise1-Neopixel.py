@@ -1,6 +1,7 @@
-# SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
-#
-# SPDX-License-Identifier: MIT
+# Exercise 1: RGB Neopixel color sequence
+# Salama Almheiri
+# 12 September 2022
+# From: SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries/ SPDX-License-Identifier: MIT
 
 """CircuitPython Essentials Internal RGB LED red, green, blue example"""
 import time
@@ -87,5 +88,3 @@ while True:
     time.sleep(0.3)
     led[0] = (178, 255, 102)
     time.sleep(0.3)
-
-
