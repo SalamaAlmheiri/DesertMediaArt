@@ -1,5 +1,9 @@
+# Exercise 1: RGB Neopixel color sequence
+# Salama Almheiri
+# 11 September 2022
+
+# From: https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led
 # SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
-#
 # SPDX-License-Identifier: MIT
 
 """CircuitPython Essentials Internal RGB LED red, green, blue example"""
