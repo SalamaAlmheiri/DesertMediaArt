@@ -1,4 +1,5 @@
 # Project Ideas
+## Idea 1:
 My idea is to create an artificial plant that reacts to living things surrounding it by lighting up and moving its branches. I will encorporate LED lights as leafs and use servo motors to move the branches. The work will react to moving things with a sensor.
 
 
