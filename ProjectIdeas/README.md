@@ -1,10 +1,13 @@
 # Project Idea
 My idea is to create an "artificial plant" that encorporates both natural and unatural material. The plant would react to living things surrounding it by lighting up and moving its branches. I will encorporate LED lights as leafs and use servo motors to move the branches. The work will react to moving things with a motion sensor.
 
-### Tech
+### Tech:
 LED, servo motors, motion sensor
 
-### Inspo
+### Design:
+<img width="400" alt="design" src="-">
+
+### Inspo:
 <img width="400" alt="treeLight" src="https://user-images.githubusercontent.com/84767210/189599077-0462831c-2a5a-4981-834a-dc49b6fec054.jpg">
 
 <img width="400" alt="desertTree" src="https://user-images.githubusercontent.com/84767210/189599019-97966d80-deab-4b9b-92f8-3dcfc2cc5010.png">
