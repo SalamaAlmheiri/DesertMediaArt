@@ -5,7 +5,7 @@ My idea is to create an "artificial plant" that encorporates both natural and un
 LED, servo motors, motion sensor
 
 ### Design:
-<img width="400" alt="design" src="-">
+<img width="400" alt="design" src="https://user-images.githubusercontent.com/84767210/193879977-92f911aa-9587-4a64-b56a-1fdace566d8d.JPG">
 
 ### Inspo:
 <img width="400" alt="treeLight" src="https://user-images.githubusercontent.com/84767210/189599077-0462831c-2a5a-4981-834a-dc49b6fec054.jpg">
