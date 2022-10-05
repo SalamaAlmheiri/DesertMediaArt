@@ -10,6 +10,8 @@ LED, servo motors, motion sensor
 ### Inspo:
 <img width="400" alt="treeLight" src="https://user-images.githubusercontent.com/84767210/189599077-0462831c-2a5a-4981-834a-dc49b6fec054.jpg">
 
+![plant](https://user-images.githubusercontent.com/84767210/194010760-0982e288-8d6a-4fa5-b79d-27fe20d50844.jpg)
+
 <img width="400" alt="desertTree" src="https://user-images.githubusercontent.com/84767210/189599019-97966d80-deab-4b9b-92f8-3dcfc2cc5010.png">.  
 [Dale Chihuly](http://rimasuqi.com/dale-chihuly-desert-installationst-new-york-times/)
 
