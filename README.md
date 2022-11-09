@@ -12,3 +12,6 @@
 [Circuit Python RGB](https://learn.adafruit.com/adafruit-feather-m4-express-atsamd51/circuitpython-internal-rgb-led)
 
 [RGB Color Generator](https://www.rapidtables.com/web/color/RGB_Color.html)
+
+
+[Neopixel](https://learn.adafruit.com/adafruit-neopixel-uberguide/python-circuitpython)
